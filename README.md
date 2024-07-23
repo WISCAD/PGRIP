@@ -16,6 +16,4 @@ T.-H. Wu, "A parallel integer programming approach to global routing", PhD Disse
 
 Included are our global routing solutions. They are verified using the ISPD08 and our internal scripts. The PGRIP solutions are obtained by running on the Computer-Aided Engineering grid at UW-Madison.
 
-Note: To generate these solutions, the first eight benchmarks (adaptec1 to newblue3) are taken from the ISPD07 suite so the via cost is assumed to be 3 units by our procedure. The remaining benchmarks (newblue4 to bigblue4) are taken from the ISPD08 suite so the via cost is assumed to be 1 unit.
-
-Note: The ISPD08 routing instances are available for download here. (When accessing the ACM-SIGDA website, in the link to download each benchmark instance, "www" should be replaced with "archive").
+The solutions are large in size. To download them, open the file "downloadable-solutions-link.pdf" for link to each solution and a provided summary table.
